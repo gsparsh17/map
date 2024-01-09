@@ -79,10 +79,16 @@ p{
 }
 #di{
     position: relative;
-    width: 400px;
+    width: 350px;
 }
 #city-input{
-    width: 300px;
+    width: 250px;
+}
+    #but{
+    position: relative;
+    /* left: 80%; */
+    width: 70px;
+    padding: 1px;
 }
 }
 
